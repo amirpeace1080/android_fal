@@ -10,9 +10,6 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import ir.alirezabdn.wp7progress.WP10ProgressBar;
-
-
 public class MainActivity extends AppCompatActivity {
 
     Button mainButton;
