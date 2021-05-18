@@ -10,7 +10,7 @@
         android:id="@+id/mainButton"
         android:layout_width="130dp"
         android:layout_height="70dp"
-        android:text="فال حافظ"
+        android:text="فال بگیر"
         android:backgroundTint="#f18367"
         app:cornerRadius="8dp"
         app:layout_constraintBottom_toBottomOf="parent"

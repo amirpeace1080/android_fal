@@ -42,9 +42,9 @@ public class MainActivity extends AppCompatActivity {
 
                         Intent intent = new Intent(MainActivity.this, FalActivity.class);
                         startActivity(intent);
-
+                        finish();
                     }
-                }, 3000);
+                }, 2000);
             }
         });
     }
